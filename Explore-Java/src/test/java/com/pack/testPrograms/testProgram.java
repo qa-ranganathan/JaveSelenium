@@ -12,7 +12,7 @@ public class testProgram {
 	@Test
 	public void TEST_001()
 	{
-		//obj.characterCount("beginnersbook");
 		obj.characterCountOptimized("beginnersbook");
+	
 	}
 }
