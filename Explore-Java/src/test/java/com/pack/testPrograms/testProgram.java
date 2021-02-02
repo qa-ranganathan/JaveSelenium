@@ -15,4 +15,10 @@ public class testProgram {
 		obj.characterCountOptimized("beginnersbook");
 	
 	}
+	
+	@Test
+	public void TEST_002()
+	{
+		obj.strReverse("welcome");
+	}
 }
